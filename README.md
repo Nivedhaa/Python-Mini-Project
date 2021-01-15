@@ -38,3 +38,6 @@ decrypt(‘khoor zruog!’, 3)<br>
 ‘hello world!’<br>
 
 For the sake of simplicity you can assume that input solely consists of lowercase alphabets, spaces and punctuation symbols. Numbers in the input text would also be ignored similar to symbols.
+
+# PANDAS MINIPROJECT
+Analysis on IPL dataset
